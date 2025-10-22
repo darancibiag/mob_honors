@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>HOLA</Text>
+      <Text>tres tristes tigres trigraban trigo en un trigal</Text>
       <StatusBar style="auto" />
     </View>
   );
